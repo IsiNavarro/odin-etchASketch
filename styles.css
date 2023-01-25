@@ -17,5 +17,6 @@ border-radius: 2px;
     border: 1px solid black;
 }
 body{
-    background-color: beige;
+    background-color: rgba(255, 0, 0, 0.397);
+    text-align: center;
 }
