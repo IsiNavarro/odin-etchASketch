@@ -3,15 +3,20 @@
     padding: 0;
     margin: 0;
 }
-
 .grid {
 display: grid;
-max-width: 300px;
-min-height: 300px;
+width: 600px;
+height: 600px;
 margin: 2rem auto;
 border: 1px solid black;
 background-color: white;
 border-radius: 2px;
+}
+button{
+    scale: 200%;
+}
+button:hover{
+    cursor: pointer;
 }
 .grid-pixel{
     border: 1px solid black;
